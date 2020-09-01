@@ -53,3 +53,4 @@ Weak and boundary integral formulation of elliptic partial differential equation
 The initial deployment of the GW SEAS Open edX instance and the creation of the first course in the platform (Fall 2014) were funded with a seed grant from the GW VP for Online Education and Academic Innovation, TA support from the GW School of Engineering and Applied Sciences, and additional support from Nvidia Corp. Academic Programs and Amazon AWS (donated cloud credits for the first year).
 
 
+
